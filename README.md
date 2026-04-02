@@ -1,8 +1,8 @@
-##Welcome! 
+## Welcome! 
 
 I'm Annabel, a self-taught and curiosity-driven Data Analyst from Florida, USA.
 
-✨#Highlights about Me# ✨
+# ✨ Highlights about Me ✨
 
 - Education background with 14 years experience empowering children to love learning
 - Transition to Data Analytics in December 2024
