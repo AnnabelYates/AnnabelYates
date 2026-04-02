@@ -1,4 +1,4 @@
-## Hi there 👋
+I am an aspiring data analyst and former elementary educator with 14 years experience empowering children to love learning. My greatest strengths are my ability to focus on details and quickly recognize patterns. I have a talent for flexible and creative problem solving when faced with challenges or new situations. I am passionate about equality for LGBTQ+ and differently-abled individuals, and I value lifelong learning and facing the world with an open and inquisitive mindset.
 
 <!--
 **AnnabelYates/AnnabelYates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
