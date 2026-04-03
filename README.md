@@ -1,8 +1,8 @@
 # Welcome! 
 
-I'm Annabel, a self-taught and curiosity-driven Data Analyst from Florida, USA.
+## I'm Annabel, a self-taught and curiosity-driven Data Analyst from Florida, USA.
 
-### Check out my [portfolio](https://github.com/AnnabelYates/Portfolio-Guide/tree/main) where I showcase my data analysis projects! 
+## Check out my [portfolio](https://github.com/AnnabelYates/Portfolio-Guide/tree/main) where I showcase my data analysis projects! 
 
 
 ### ✨ Highlights about Me ✨
