@@ -1,11 +1,11 @@
-## Welcome! 
+# Welcome! 
 
 I'm Annabel, a self-taught and curiosity-driven Data Analyst from Florida, USA.
 
 ### Check out my [portfolio](https://github.com/AnnabelYates/Portfolio-Guide/tree/main) where I showcase my data analysis projects! 
 
 
-#### ✨ Highlights about Me ✨
+### ✨ Highlights about Me ✨
 
 - Education background with 14 years experience empowering children to love learning
 - Transition to Data Analytics in December 2024
