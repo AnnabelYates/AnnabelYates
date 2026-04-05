@@ -10,8 +10,8 @@
 - Education background with 14 years experience empowering children to love learning
 - Transition to Data Analytics in December 2024
 - Strengths: focus on details, rapid pattern recognition, creative problem solving, inquisitive mindset, strong desire to learn new skills, resilient and determined
-- Skills: exploratory data analysis, machine learning models, regression analysis, Python, SQL, Google Workspace, data cleaning and preparation, statistical analysis, data visualization 
-- Specializations: Google Data Analytics, Meta Data Analyst, Excel Skills for Business, Getting Started with Google Workspace, Algebra: Elementary to Advanced 
+- Skills: exploratory data analysis, machine learning models, regression analysis, Python, SQL, Google Workspace, Excel, Google Sheets, data cleaning and preparation, statistical analysis, data visualization 
+- Specializations: Google Data Analytics, Meta Data Analyst, Statistics and Data Analysis with Excel, Excel Skills for Business, Getting Started with Google Workspace, Algebra: Elementary to Advanced 
 
 #### Fun Fact:
 I love traveling with my pets in our rv, and I've lived across the United States: Missouri, California, Montana, Vermont and Florida. My favorite road trip so far has been a 3-month adventure across Western Canada and Alaska. 
