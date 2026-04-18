@@ -14,7 +14,7 @@
 - Specializations: Google Data Analytics, Meta Data Analyst, Statistics and Data Analysis with Excel, Excel Skills for Business, Getting Started with Google Workspace, Algebra: Elementary to Advanced 
 
 #### Fun Fact:
-I love traveling with my pets in our rv, and I've lived across the United States: Missouri, California, Montana, Vermont and Florida. My favorite road trip so far has been a 3-month adventure across Western Canada and Alaska. 
+I love traveling with my pets in my rv, and I've lived across the United States: Missouri, California, Montana, Vermont and Florida. My favorite road trip so far has been a 3-month adventure across Western Canada and Alaska. 
 
 
 <!--
