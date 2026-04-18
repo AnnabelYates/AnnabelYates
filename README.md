@@ -10,7 +10,7 @@
 - Education background with 14 years experience empowering children to love learning
 - Transition to Data Analytics in December 2024
 - Strengths: focus on details, rapid pattern recognition, creative problem solving, inquisitive mindset, strong desire to learn new skills, resilient and determined
-- Skills: exploratory data analysis, machine learning models, regression analysis, Python, SQL, Google Workspace, Excel, Google Sheets, data cleaning and preparation, statistical analysis, data visualization 
+- Skills: exploratory data analysis, machine learning models, regression analysis, Python, SQL, Google Workspace, Excel, Google Sheets, Tableau, data cleaning and preparation, statistical analysis, data visualization 
 - Specializations: Google Data Analytics, Meta Data Analyst, Statistics and Data Analysis with Excel, Excel Skills for Business, Getting Started with Google Workspace, Algebra: Elementary to Advanced 
 
 #### Fun Fact:
